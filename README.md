@@ -56,6 +56,6 @@ http://localhost:3000/
 
 ### Screens
 <div align="center">
-    <img alt="Home Screen" title="Home Screen" src=".github\screen-1.jpg?raw=true" width="200px" />
-    <img alt="Game Screen" title="Game Screen" src=".github\screen-2.jpg?raw=true" width="200px" />
+    <img alt="Home Screen" title="Home Screen" src=".github\screen-1.png?raw=true" width="200px" />
+    <img alt="Game Screen" title="Game Screen" src=".github\screen-2.png?raw=true" width="200px" />
 </div>
